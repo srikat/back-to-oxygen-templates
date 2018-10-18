@@ -2,6 +2,8 @@
 
 Adds `Templates` menu item under "Back to WP" menu in [Oxygen](http://oxygenbuilder.com/)'s editor.
 
+Clicking on it takes you back to Templates listing page in the WordPress admin.
+
 ![Screenshot](https://wpdevdesign.com/wp-content/uploads/2018/10/back-to-oxygen-templates.png)
 
 ## Installation ##
