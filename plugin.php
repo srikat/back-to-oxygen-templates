@@ -3,7 +3,7 @@
 Plugin Name:	Back to Oxygen Templates
 Plugin URI:		https://wpdevdesign.com/back-to-oxygen-templates-plugin/
 Description:	Adds "Templates" menu item under "Back to WP" menu in Oxygen editor.
-Version:		1.0.0
+Version:		1.0.1
 Author:			Sridhar Katakam
 Author URI:		https://wpdevdesign.com
 License:		GPL-2.0+

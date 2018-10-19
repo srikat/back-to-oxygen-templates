@@ -1,6 +1,6 @@
 # Back to Oxygen Templates #
 
-Adds `Templates` menu item under "Back to WP" menu in [Oxygen](http://oxygenbuilder.com/)'s editor.
+Adds `Templates` and `Pages` menu items under "Back to WP" menu in [Oxygen](http://oxygenbuilder.com/)'s editor.
 
 Clicking on it takes you back to Templates listing page in the WordPress admin.
 
@@ -16,3 +16,6 @@ Clicking on it takes you back to Templates listing page in the WordPress admin.
 
 ### 1.0.0 - Oct 19, 2018 ###
 * Initial Release
+
+### 1.0.1 - Oct 19, 2018 ###
+* Added a link to Pages below the Templates link.
